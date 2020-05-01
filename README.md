@@ -13,7 +13,7 @@ On this page, you will see a green button saying 'clone or download'. Click this
 
 I recommend that everyone read the following paper. Please send me an email if you can't get access to the paper. Use the Rhodes University Google Scholar Portal (access via the RU library page). 
 
-Warton, D. I., Lyons, M., Stoklosa, J., & Ives, A. R. (2016). Three points to consider when choosing a LM or GLM test for count data. Methods in Ecology and Evolution, 7(8), 882-890.
+* Warton, D. I., Lyons, M., Stoklosa, J., & Ives, A. R. (2016). Three points to consider when choosing a LM or GLM test for count data. Methods in Ecology and Evolution, 7(8), 882-890.
 
 ## Tutorial videos
 
